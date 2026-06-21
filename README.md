@@ -64,8 +64,18 @@ Maestría en Humanidades Digitales
 
 Universidad Internacional de La Rioja (UNIR)
 
+## Versión
+
+Versión estable: v1.0 (2026)
+
+La presente versión corresponde a la primera publicación pública de la edición académica digital comentada de *Cuentos* (1919).
+
 ## Licencia
 
 La obra original se encuentra en dominio público.
 
 La codificación, estructura digital y documentación de esta edición se distribuyen bajo licencia CC0 1.0 Universal.
+
+## Cómo citar este proyecto
+
+Álvarez Cucho, Carmen. *Edición académica digital comentada de Cuentos (1919) de Lastenia Larriva de Llona*. Versión 1.0. GitHub, 2026.
