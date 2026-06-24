@@ -18,7 +18,7 @@
                 <edition>Transcripción y edición comentada del libro de cuentos de la escritora peruana Lastenia Larriva de Llona, Cuentos, publicado en 1919</edition>
             </editionStmt>
             <publicationStmt>
-                <publisher>Sin determinar</publisher>
+                <publisher>Proyecto de edición académica digital. Universidad Internacional de La Rioja.</publisher>
                 <pubPlace>Lima</pubPlace>
                 <date>2026</date>
                 <availability status="free">
@@ -544,12 +544,21 @@
                         su forma regularizada para facilitar la lectura contemporánea.</p>
                 </normalization>
                 <quotation>
-                    <p>Se respeta el discurso directo y se han incorporado notas comentadas e interpretativas, especialmente enfocadas en categorías teóricas como el ángel
-                        del, género, decolonial y narratología en cada cuento analizado. Asimismo,
-                        un glosario de significado de palabras de la época y enlaces a artículos y
+                    <p>Se respeta el discurso directo y se han incorporado notas comentadas e
+                        interpretativas, especialmente enfocadas en categorías teóricas como de
+                        género, decolonial y narratología en cada cuento analizado. Asimismo, un
+                        glosario de significado de palabras de la época y enlaces a artículos y
                         libros en internet para mayor información de cada nota crítica.</p>
                 </quotation>
             </editorialDecl>
+            <appInfo>
+                <application
+                    ident="OxygenXML"
+                    version="27.1">
+                    <label>Oxygen XML Editor</label>
+                    <ptr target="https://www.oxygenxml.com/"/>
+                </application>
+            </appInfo>
             <classDecl>
                 <taxonomy xml:id="temas">
                     
@@ -594,7 +603,33 @@
                     </category>
                 </taxonomy>
             </classDecl>
-        </encodingDesc>   
+        </encodingDesc>
+        <revisionDesc>
+            
+            <change when="2026-06-24" who="#cac">
+                Se realizó la revisión final de la edición académica digital antes de su publicación. Se verificó la estructura del encabezado TEI, la consistencia del etiquetado XML, la validación del documento y la incorporación del historial de revisiones.
+            </change>
+            
+            <change when="2026-05-20" who="#cac">
+                Se completó el enriquecimiento semántico de la edición mediante el etiquetado de personajes, espacios narrativos, temas, categorías interpretativas, taxonomías, metadatos bibliográficos y elementos estructurales conforme a las recomendaciones de TEI P5.
+            </change>
+            
+            <change when="2026-05-18" who="#cac">
+                Se incorporaron notas críticas, comentarios editoriales, glosario de voces históricas y referencias bibliográficas destinadas a contextualizar los cuentos desde perspectivas literarias, narratológicas, de género y decoloniales.
+            </change>
+            
+            <change when="2026-05-10" who="#cac">
+                Se efectuó la modernización ortográfica sistemática respetando el testimonio original mediante el uso de los elementos <gi>choice</gi>, <gi>orig</gi> y <gi>reg</gi>, de acuerdo con los criterios editoriales establecidos para la edición.
+            </change>
+            
+            <change when="2026-05-13" who="#cac">
+                Se concluyó la codificación estructural de la colección de catorce cuentos, incluyendo la descripción bibliográfica, el resumen crítico, la clasificación temática, la identificación de personajes y espacios narrativos, así como la organización de los metadatos del proyecto.
+            </change>
+            
+            <change when="2026-04-13" who="#cac">
+                Se creó la primera versión de la edición académica digital comentada de <title level="m">Cuentos</title> (1919), de Lastenia Larriva de Llona, como parte del proyecto de investigación de maestría.
+            </change>
+        </revisionDesc>
     </teiHeader>
     <text>
         <front>
