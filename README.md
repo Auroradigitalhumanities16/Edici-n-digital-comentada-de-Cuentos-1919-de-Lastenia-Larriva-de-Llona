@@ -78,4 +78,4 @@ La codificación, estructura digital y documentación de esta edición se distri
 
 ## Cómo citar este proyecto
 
-Álvarez Cucho, Carmen. *Edición académica digital comentada de Cuentos (1919) de Lastenia Larriva de Llona*. Versión 1.0. GitHub, 2026.
+Alvarez Cucho, Carmen. *Edición académica digital comentada de Cuentos (1919) de Lastenia Larriva de Llona*. Versión 1.0. GitHub, 2026.
