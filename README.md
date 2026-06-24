@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este repositorio contiene una edición académica digital comentada de *Cuentos* (1919), de la escritora peruana **Lastenia Larriva de Llona** (1848–1924).
+Este repositorio contiene la primera edición académica digital comentada de *Cuentos* (1919), de la escritora peruana **Lastenia Larriva de Llona** (1848–1924).
 
 La edición ha sido desarrollada en el marco de una investigación de maestría en Humanidades Digitales con el objetivo de contribuir a la recuperación, preservación y difusión de la producción literaria de una autora fundamental para la historia de la narrativa peruana.
 
